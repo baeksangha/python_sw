@@ -11,17 +11,21 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3316_동아리실관리하기/source.py">
+        <entry file="file://$PROJECT_DIR$/5987_run/source.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
-              <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+            <state relative-caret-position="440">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3316_동아리실관리하기/input">
-          <provider selected="true" editor-type-id="text-editor" />
+        <entry file="file://$PROJECT_DIR$/5987_run/input">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -79,8 +83,6 @@
         <option value="$PROJECT_DIR$/3501_순환소수짧게표현하기/source.py" />
         <option value="$PROJECT_DIR$/3459_승자예측하기/input" />
         <option value="$PROJECT_DIR$/3459_승자예측하기/source.py" />
-        <option value="$PROJECT_DIR$/5987_run/input" />
-        <option value="$PROJECT_DIR$/5987_run/source.py" />
         <option value="$PROJECT_DIR$/3378_스타일리쉬들여쓰기/input" />
         <option value="$PROJECT_DIR$/3378_스타일리쉬들여쓰기/source.py" />
         <option value="$PROJECT_DIR$/3349_최솟값으로이동하기/input" />
@@ -89,6 +91,8 @@
         <option value="$PROJECT_DIR$/3347_ 올림픽종목투표/source.py" />
         <option value="$PROJECT_DIR$/3316_동아리실관리하기/input" />
         <option value="$PROJECT_DIR$/3316_동아리실관리하기/source.py" />
+        <option value="$PROJECT_DIR$/5987_run/input" />
+        <option value="$PROJECT_DIR$/5987_run/source.py" />
       </list>
     </option>
   </component>
@@ -114,12 +118,7 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="3316_동아리실관리하기" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="3812_호중이의큐브색칠" type="462c0819:PsiDirectoryNode" />
+              <item name="5213_진수의_홀수_약수" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
@@ -151,7 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.source (5)">
+  <component name="RunManager" selected="Python.source (1)">
     <configuration name="source (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -264,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.source (1)" />
         <item itemvalue="Python.source (5)" />
         <item itemvalue="Python.source (4)" />
         <item itemvalue="Python.source (3)" />
         <item itemvalue="Python.source (2)" />
-        <item itemvalue="Python.source (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -287,12 +286,12 @@
       <workItem from="1587106951514" duration="13279000" />
       <workItem from="1587264096613" duration="15331000" />
       <workItem from="1587343377568" duration="14870000" />
-      <workItem from="1587443366856" duration="999000" />
+      <workItem from="1587443366856" duration="3807000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="65063000" />
+    <option name="totallyTimeSpent" value="67871000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -328,8 +327,8 @@
     <SUITE FILE_PATH="coverage/python$source__4_.coverage" NAME="source (4) Coverage Results" MODIFIED="1587378626337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3347_ 올림픽종목투표" />
     <SUITE FILE_PATH="coverage/python$source.coverage" NAME="source Coverage Results" MODIFIED="1587303157117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3459_승자예측하기" />
     <SUITE FILE_PATH="coverage/python$source__3_.coverage" NAME="source (3) Coverage Results" MODIFIED="1587375517216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3349_최솟값으로이동하기" />
-    <SUITE FILE_PATH="coverage/python$source__5_.coverage" NAME="source (5) Coverage Results" MODIFIED="1587444387584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3316_동아리실관리하기" />
-    <SUITE FILE_PATH="coverage/python$source__1_.coverage" NAME="source (1) Coverage Results" MODIFIED="1587366342987" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5987_run" />
+    <SUITE FILE_PATH="coverage/python$source__5_.coverage" NAME="source (5) Coverage Results" MODIFIED="1587445053144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3316_동아리실관리하기" />
+    <SUITE FILE_PATH="coverage/python$source__1_.coverage" NAME="source (1) Coverage Results" MODIFIED="1587447463237" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5987_run" />
     <SUITE FILE_PATH="coverage/python$source__2_.coverage" NAME="source (2) Coverage Results" MODIFIED="1587374447857" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3378_스타일리쉬들여쓰기" />
   </component>
   <component name="editorHistoryManager">
@@ -379,13 +378,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5213_진수의_홀수_약수/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="22">
-          <caret line="7" column="14" lean-forward="true" selection-end-line="31" />
         </state>
       </provider>
     </entry>
@@ -550,13 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3752_가능한시험점수/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="242">
-          <caret line="11" column="33" lean-forward="true" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3501_순환소수짧게표현하기/input">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="88">
@@ -564,41 +549,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3501_순환소수짧게표현하기/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3459_승자예측하기/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3459_승자예측하기/input">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="330">
           <caret line="15" column="2" selection-start-line="12" selection-start-column="1" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5987_run/input">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="1" selection-start-column="1" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5987_run/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="132">
-          <caret line="15" column="19" selection-end-line="33" />
         </state>
       </provider>
     </entry>
@@ -616,13 +570,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3378_스타일리쉬들여쓰기/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-902">
-          <caret line="13" column="25" lean-forward="true" selection-end-line="77" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3349_최솟값으로이동하기/input">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="44">
@@ -630,32 +577,84 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3349_최솟값으로이동하기/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="20" lean-forward="true" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3347_ 올림픽종목투표/input">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/3347_ 올림픽종목투표/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="26" lean-forward="true" selection-end-line="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3316_동아리실관리하기/source.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
-          <caret line="23" column="18" lean-forward="true" selection-start-line="23" selection-start-column="18" selection-end-line="23" selection-end-column="18" />
+        <state relative-caret-position="242">
+          <caret line="11" column="42" lean-forward="true" selection-start-line="11" selection-start-column="42" selection-end-line="11" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/3316_동아리실관리하기/input">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3349_최솟값으로이동하기/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="11">
+          <caret line="9" column="12" lean-forward="true" selection-start-line="9" selection-start-column="12" selection-end-line="9" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3378_스타일리쉬들여쓰기/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="21" column="28" selection-start-line="21" selection-start-column="28" selection-end-line="21" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3459_승자예측하기/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-187">
+          <caret line="21" column="14" lean-forward="true" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3347_ 올림픽종목투표/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="7" lean-forward="true" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3501_순환소수짧게표현하기/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="99">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3752_가능한시험점수/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5213_진수의_홀수_약수/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="19" column="23" lean-forward="true" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5987_run/input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="1" selection-start-column="1" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/5987_run/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="440">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>

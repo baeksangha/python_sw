@@ -1,33 +1,31 @@
 import sys
 
+forward = [0] * 16
 
-def solve(flag):
-    print("before", dp, flag)
-    if flag == full:
+
+def solution(n, ranks, cache, state):
+
+    if state == (1 << n) - 1:
         return 1
+    if cache[state] != -1:
+        return cache[state]
 
-    if dp[flag] != -1:
-        return dp[flag]
-    dp[flag] = 0
-
+    cache[state] = 0
     for i in range(n):
-        if (flag & 1 << i) == 0 and (flag & needs[i]) == needs[i]:
-            dp[flag] += solve(flag | 1 << i)
-    print("after", dp, flag)
-    return dp[flag]
+        if (state & (1 << i)) or ((state & forward[i]) != forward[i]):
+            continue
+        cache[state] += solution(n, ranks, cache, (state | (1 << i)))
+
+    return cache[state]
 
 
-sys.stdin = open('input', 'r')
-for T in range(1, int(input()) + 1):
-
-    n, m = map(int, input().split())
-    needs = [0] * 16
-    dp = [-1] * (1 << n)
-
-    for i in range(m):
-        a, b = map(int, input().split())
-        needs[b - 1] |= 1 << (a - 1)
-    full = (1 << n) - 1
-    print('#%d %d' % (T, solve(0)))
-    print(needs)
-    print(dp)
+if __name__ == "__main__":
+    sys.stdin = open('input', 'r')
+    tests = int(input())
+    for i in range(1, tests+1):
+        n, m = map(int, input().split())
+        ranks = [list(map(int, input().split())) for _ in range(m)]
+        forward = [0] * n
+        for r in ranks:
+            forward[r[1]-1] |= 1 << (r[0]-1)
+        print("#%d %d" % (i, solution(n, ranks, [-1 for _ in range(1 << n)], 0)))
