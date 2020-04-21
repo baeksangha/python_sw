@@ -10,20 +10,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3071_입국심사/source.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/1824_혁진이의프로그램검증/source.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="242">
-              <caret line="11" column="20" lean-forward="true" selection-end-line="26" />
+            <state relative-caret-position="143">
+              <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/3071_입국심사/input">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/1824_혁진이의프로그램검증/input">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="1" selection-start-column="1" selection-end-column="1" />
+            <state relative-caret-position="-4092">
+              <caret column="2" selection-start-column="2" selection-end-column="2" />
             </state>
           </provider>
         </entry>
@@ -43,8 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/5550_crock/input" />
-        <option value="$PROJECT_DIR$/5550_crock/source.py" />
         <option value="$PROJECT_DIR$/5213_진수의_홀수_약수/input" />
         <option value="$PROJECT_DIR$/5213_진수의_홀수_약수/source.py" />
         <option value="$PROJECT_DIR$/4698_테네스의_특별한_소수/input" />
@@ -94,10 +92,12 @@
         <option value="$PROJECT_DIR$/2477_차량정비소/source.py" />
         <option value="$PROJECT_DIR$/3071_입국심사/input" />
         <option value="$PROJECT_DIR$/3071_입국심사/source.py" />
+        <option value="$PROJECT_DIR$/1824_혁진이의프로그램검증/source.py" />
+        <option value="$PROJECT_DIR$/1824_혁진이의프로그램검증/input" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="952" />
     <option name="y" value="-8" />
     <option name="width" value="976" />
@@ -119,12 +119,12 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2477_차량정비소" type="462c0819:PsiDirectoryNode" />
+              <item name="1824_혁진이의프로그램검증" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="3071_입국심사" type="462c0819:PsiDirectoryNode" />
+              <item name="2477_차량정비소" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -151,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.source (2)">
+  <component name="RunManager" selected="Python.source (3)">
     <configuration name="source (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -196,7 +196,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="source (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="source (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -204,12 +204,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3347_ 올림픽종목투표" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1824_혁진이의프로그램검증" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3347_ 올림픽종목투표/source.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1824_혁진이의프로그램검증/source.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -264,11 +264,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.source (3)" />
         <item itemvalue="Python.source (2)" />
         <item itemvalue="Python.source" />
         <item itemvalue="Python.source (1)" />
         <item itemvalue="Python.source (5)" />
-        <item itemvalue="Python.source (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -287,12 +287,12 @@
       <workItem from="1587106951514" duration="13279000" />
       <workItem from="1587264096613" duration="15331000" />
       <workItem from="1587343377568" duration="14870000" />
-      <workItem from="1587443366856" duration="14153000" />
+      <workItem from="1587443366856" duration="17657000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="78217000" />
+    <option name="totallyTimeSpent" value="81721000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -327,26 +327,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$source__4_.coverage" NAME="source (4) Coverage Results" MODIFIED="1587378626337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3347_ 올림픽종목투표" />
     <SUITE FILE_PATH="coverage/python$source.coverage" NAME="source Coverage Results" MODIFIED="1587460091705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2477_차량정비소" />
-    <SUITE FILE_PATH="coverage/python$source__3_.coverage" NAME="source (3) Coverage Results" MODIFIED="1587375517216" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3349_최솟값으로이동하기" />
+    <SUITE FILE_PATH="coverage/python$source__3_.coverage" NAME="source (3) Coverage Results" MODIFIED="1587479582354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1824_혁진이의프로그램검증" />
     <SUITE FILE_PATH="coverage/python$source__5_.coverage" NAME="source (5) Coverage Results" MODIFIED="1587445053144" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3316_동아리실관리하기" />
     <SUITE FILE_PATH="coverage/python$source__1_.coverage" NAME="source (1) Coverage Results" MODIFIED="1587452520911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/5987_run" />
     <SUITE FILE_PATH="coverage/python$source__2_.coverage" NAME="source (2) Coverage Results" MODIFIED="1587475534847" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3071_입국심사" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/5550_crock/input">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="110">
-          <caret line="5" column="6" lean-forward="true" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/5550_crock/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="29" column="26" lean-forward="true" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/5213_진수의_홀수_약수/input">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -643,16 +629,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2477_차량정비소/source.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="12" selection-end-line="101" />
-          <folding>
-            <element signature="e#0#10#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3071_입국심사/input">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -664,6 +640,30 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="242">
           <caret line="11" column="20" lean-forward="true" selection-end-line="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2477_차량정비소/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="8" lean-forward="true" selection-end-line="101" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1824_혁진이의프로그램검증/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="46" column="17" lean-forward="true" selection-start-line="46" selection-start-column="17" selection-end-line="46" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1824_혁진이의프로그램검증/input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4092">
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
         </state>
       </provider>
     </entry>
