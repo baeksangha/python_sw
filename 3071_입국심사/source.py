@@ -1,19 +1,20 @@
 import sys
+import math
 
 
 def solution(n, m, times):
     times.sort()
     l = 0
     r = times[0] * m * 2
-    answer = r // 2
-    while l <= r:
+    answer = math.inf
+    while l < r:
         mid = (l + r) // 2
-        sum_ = sum(mid // x for x in times)
-        if sum_ < m:
+        sum_ = sum([mid // x for x in times])
+        if m > sum_:
             l = mid + 1
         else:
-            r = mid - 1
             answer = min(answer, mid)
+            r = mid
     return answer
 
 
