@@ -11,10 +11,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/1861_정사각형방/source.py">
+        <entry file="file://$PROJECT_DIR$/4699_콩순이의가장싼팰린드롬/source.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+            <state relative-caret-position="132">
+              <caret line="9" column="13" selection-end-line="34" />
               <folding>
                 <element signature="e#0#10#0" expanded="true" />
               </folding>
@@ -23,12 +23,8 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/1861_정사각형방/input">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="352">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-            </state>
-          </provider>
+        <entry file="file://$PROJECT_DIR$/4699_콩순이의가장싼팰린드롬/input">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -51,8 +47,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/3812_호중이의큐브색칠/input" />
-        <option value="$PROJECT_DIR$/3812_호중이의큐브색칠/source.py" />
         <option value="$PROJECT_DIR$/3752_가능한시험점수/source.py" />
         <option value="$PROJECT_DIR$/3752_가능한시험점수/input" />
         <option value="$PROJECT_DIR$/3501_순환소수짧게표현하기/input" />
@@ -102,6 +96,8 @@
         <option value="$PROJECT_DIR$/1868_파핑파핑지뢰찾기/source.py" />
         <option value="$PROJECT_DIR$/1861_정사각형방/input" />
         <option value="$PROJECT_DIR$/1861_정사각형방/source.py" />
+        <option value="$PROJECT_DIR$/4699_콩순이의가장싼팰린드롬/input" />
+        <option value="$PROJECT_DIR$/4699_콩순이의가장싼팰린드롬/source.py" />
       </list>
     </option>
   </component>
@@ -116,7 +112,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -124,10 +119,16 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="4699_콩순이의가장싼팰린드롬" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -149,29 +150,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.source (4)">
-    <configuration name="source (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/3000_중간값구하기" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3000_중간값구하기/source.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.source (5)">
     <configuration name="source (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,6 +217,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="source (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/4699_콩순이의가장싼팰린드롬" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4699_콩순이의가장싼팰린드롬/source.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="source" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,11 +263,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.source (5)" />
         <item itemvalue="Python.source (4)" />
         <item itemvalue="Python.source (3)" />
         <item itemvalue="Python.source (2)" />
         <item itemvalue="Python.source" />
-        <item itemvalue="Python.source (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -290,21 +291,23 @@
       <workItem from="1587610626369" duration="15457000" />
       <workItem from="1587651378607" duration="1286000" />
       <workItem from="1587689435077" duration="16012000" />
+      <workItem from="1587782717504" duration="2463000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="129994000" />
+    <option name="totallyTimeSpent" value="132457000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21481876" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21695095" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.30368763" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30368763" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -329,25 +332,11 @@
     <SUITE FILE_PATH="coverage/python$source__4_.coverage" NAME="source (4) Coverage Results" MODIFIED="1587743483708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1861_정사각형방" />
     <SUITE FILE_PATH="coverage/python$source.coverage" NAME="source Coverage Results" MODIFIED="1587717051497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3124_최소스패닝트리" />
     <SUITE FILE_PATH="coverage/python$source__3_.coverage" NAME="source (3) Coverage Results" MODIFIED="1587730076351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1868_파핑파핑지뢰찾기" />
-    <SUITE FILE_PATH="coverage/python$source__5_.coverage" NAME="source (5) Coverage Results" MODIFIED="1587645258871" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3071_입국심사" />
+    <SUITE FILE_PATH="coverage/python$source__5_.coverage" NAME="source (5) Coverage Results" MODIFIED="1587785773088" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4699_콩순이의가장싼팰린드롬" />
     <SUITE FILE_PATH="coverage/python$source__1_.coverage" NAME="source (1) Coverage Results" MODIFIED="1587691987912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3000_중간값구하기" />
     <SUITE FILE_PATH="coverage/python$source__2_.coverage" NAME="source (2) Coverage Results" MODIFIED="1587728313794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3064_BinaryIndexedTree" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/3501_순환소수짧게표현하기/input">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="4" column="3" lean-forward="true" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/3459_승자예측하기/input">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="15" column="2" selection-start-line="12" selection-start-column="1" selection-end-line="15" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3812_호중이의큐브색칠/source.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="264">
@@ -679,17 +668,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1861_정사각형방/input">
+    <entry file="file://$PROJECT_DIR$/1861_정사각형방/source.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="352">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="374">
+          <caret line="17" column="34" lean-forward="true" selection-end-line="39" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1861_정사각형방/source.py">
+    <entry file="file://$PROJECT_DIR$/1861_정사각형방/input">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="352">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4699_콩순이의가장싼팰린드롬/input">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4699_콩순이의가장싼팰린드롬/source.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="9" column="13" selection-end-line="34" />
           <folding>
             <element signature="e#0#10#0" expanded="true" />
           </folding>
