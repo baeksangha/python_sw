@@ -91,7 +91,7 @@ def solution(r_time1, r_time2, arr_times, a, b):
 
 
 if __name__ == "__main__":
-    sys.stdin = open('input', 'r')
+    sys.stdin = open('input.txt', 'r')
     tests = int(input())
     for i in range(1, tests+1):
         n, m, k, a, b = map(int, input().split())

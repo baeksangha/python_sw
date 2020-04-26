@@ -68,7 +68,7 @@ def solution(done, todo):
 
 
 if __name__ == "__main__":
-    sys.stdin = open('input', 'r')
+    sys.stdin = open('input.txt', 'r')
     tests = int(input())
     for i in range(1, tests+1):
         p, q = map(int, input().split())

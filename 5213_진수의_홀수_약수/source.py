@@ -24,7 +24,7 @@ def solution(l, r):
 if __name__ == "__main__":
     get_prime()
     # print(arr[:100])
-    sys.stdin = open('input', 'r')
+    sys.stdin = open('input.txt', 'r')
     tests = int(input())
     for i in range(1, tests+1):
         l, r = map(int, input().split())

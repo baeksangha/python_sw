@@ -28,7 +28,7 @@ def solution(d, left, right):
 
 if __name__ == "__main__":
     get_primes()
-    sys.stdin = open('input','r')
+    sys.stdin = open('input.txt','r')
     tests = int(input())
     for i in range(1, tests+1):
         d, a, b = map(int, input().split())

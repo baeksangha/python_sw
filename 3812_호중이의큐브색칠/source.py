@@ -8,7 +8,7 @@ def solution(x, y, z, a, b, c, n):
 
 
 if __name__ == "__main__":
-    sys.stdin = open('input', 'r')
+    sys.stdin = open('input.txt', 'r')
     tests = int(input())
     for i in range(1, tests+1):
         x, y, z, a, b, c, n = map(int, input().split())
