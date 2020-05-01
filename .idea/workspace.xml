@@ -13,15 +13,19 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/1240_단순2진암호코드/source.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="616">
-              <caret line="28" selection-start-line="28" selection-end-line="28" />
+            <state relative-caret-position="330">
+              <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/1240_단순2진암호코드/input">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -45,7 +49,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1494_사랑의카운슬러/source.py" />
         <option value="$PROJECT_DIR$/1258_행렬찾기/source.py" />
         <option value="$PROJECT_DIR$/1258_행렬찾기/input" />
         <option value="$PROJECT_DIR$/1258_행렬찾기/source2.py" />
@@ -95,6 +98,7 @@
         <option value="$PROJECT_DIR$/4615_재미있는오셀로게임/source.py" />
         <option value="$PROJECT_DIR$/1961_숫자배열회전/input" />
         <option value="$PROJECT_DIR$/1961_숫자배열회전/source.py" />
+        <option value="$PROJECT_DIR$/1240_단순2진암호코드/input" />
         <option value="$PROJECT_DIR$/1240_단순2진암호코드/source.py" />
       </list>
     </option>
@@ -153,7 +157,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.source">
+  <component name="RunManager" selected="Python.source (2)">
     <configuration name="source (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -176,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="source (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="source (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,12 +188,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2117_홈방범서비스" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1240_단순2진암호코드" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2117_홈방범서비스/source.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1240_단순2진암호코드/source.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,11 +270,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.source (2)" />
         <item itemvalue="Python.source" />
         <item itemvalue="Python.source (1)" />
         <item itemvalue="Python.source (4)" />
         <item itemvalue="Python.source (5)" />
-        <item itemvalue="Python.source (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -302,12 +306,12 @@
       <workItem from="1588131784277" duration="1746000" />
       <workItem from="1588155870127" duration="1785000" />
       <workItem from="1588214714425" duration="12638000" />
-      <workItem from="1588304459662" duration="535000" />
+      <workItem from="1588304459662" duration="2803000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="188818000" />
+    <option name="totallyTimeSpent" value="191086000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -346,7 +350,7 @@
     <SUITE FILE_PATH="coverage/python$source__3_.coverage" NAME="source (3) Coverage Results" MODIFIED="1588216662608" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2117_홈방범서비스" />
     <SUITE FILE_PATH="coverage/python$source__5_.coverage" NAME="source (5) Coverage Results" MODIFIED="1588223536301" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2115_벌꿀채취" />
     <SUITE FILE_PATH="coverage/python$source__1_.coverage" NAME="source (1) Coverage Results" MODIFIED="1588234333719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4615_재미있는오셀로게임" />
-    <SUITE FILE_PATH="coverage/python$source__2_.coverage" NAME="source (2) Coverage Results" MODIFIED="1588156002581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2382_미생물격리" />
+    <SUITE FILE_PATH="coverage/python$source__2_.coverage" NAME="source (2) Coverage Results" MODIFIED="1588307814976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1240_단순2진암호코드" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/1233_사칙연산유효성검사/input">
@@ -689,9 +693,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1240_단순2진암호코드/input">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1961_숫자배열회전/source.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
@@ -699,10 +700,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/1240_단순2진암호코드/input">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/1240_단순2진암호코드/source.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
+        <state relative-caret-position="330">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
         </state>
       </provider>
     </entry>
