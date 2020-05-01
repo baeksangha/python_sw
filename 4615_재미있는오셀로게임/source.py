@@ -6,7 +6,6 @@ def norm(a):
 
 
 def solution(n, m, go):
-    answer = 2500
     board = [[-1 for _ in range(n)] for _ in range(n)]
     half = n // 2
 
